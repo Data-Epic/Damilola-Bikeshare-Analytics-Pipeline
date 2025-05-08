@@ -1,0 +1,4 @@
+.env
+dags/data/output/
+dags/data/bikeshare_cleaned.parquet
+

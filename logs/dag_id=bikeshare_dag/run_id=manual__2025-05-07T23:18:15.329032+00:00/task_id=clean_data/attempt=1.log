@@ -1,0 +1,14 @@
+{"timestamp":"2025-05-07T23:18:16.734654","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-07T23:18:16.735340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-07T23:18:19.235698Z","level":"info","event":"                          started_at  ...           week","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.238493Z","level":"info","event":"count                         175214  ...  175214.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.239285Z","level":"info","event":"mean   2022-12-13 23:50:21.461846528  ...      49.758649","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240199Z","level":"info","event":"min              2022-12-01 00:00:14  ...      48.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240334Z","level":"info","event":"25%       2022-12-06 20:26:10.500000  ...      49.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240430Z","level":"info","event":"50%       2022-12-12 15:33:27.500000  ...      50.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240521Z","level":"info","event":"75%    2022-12-19 18:09:41.750000128  ...      51.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240592Z","level":"info","event":"max              2022-12-31 23:58:48  ...      52.000000","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240719Z","level":"info","event":"std                              NaN  ...       1.297904","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240814Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:18:19.240900Z","level":"info","event":"[8 rows x 11 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-07T23:25:36.648253","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
