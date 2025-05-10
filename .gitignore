@@ -3,3 +3,4 @@ dags/data/output
 dags/data/bikeshare_cleaned.parquet
 dags/__pycache__
 logs/
+config/airflow.cfg
