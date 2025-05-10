@@ -1,6 +1,3 @@
-import os
-import logging
-
 import pandas as pd
 from clean import clean_parquet_path
 

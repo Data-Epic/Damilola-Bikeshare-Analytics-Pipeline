@@ -39,14 +39,13 @@ Real-Time Alerts Required:
     - Logs midnight casual rider starts
 
 # 🔁 Pipeline Architecture
-
+[Flowchart](screenshots/flowchart.png)
 [DAG](screenshots/bikeshare_dag_v0-graph.png)
 
 # 🧪 Setup & Run
-
 ```
-git clone https://github.com/Data-Epic/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Data-Epic/Damilola-Bikeshare-Analytics-Pipeline
+cd Damilola-Bikeshare-Analytics-Pipeline
 
 // Start pipeline
 docker-compose up --build
