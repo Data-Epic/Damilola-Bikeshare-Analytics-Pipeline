@@ -8,6 +8,7 @@ from sqlalchemy import create_engine
 
 
 def save_data_to_db(**context):
+    # add to airflow environment variable
     database_url = context["var"]["value"].get("DATABASE_URL")
     df = pd.read_parquet(clean_parquet_path)
     engine = create_engine(database_url)
