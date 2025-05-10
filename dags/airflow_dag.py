@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from clean import *
 from kapka_stream import stream_data_and_log_alert
 from airflow.operators.python import PythonOperator
-
+from save_to_db import save_data_to_db
 default_args = {
     "owner": "Damilola Adeniyi",
     "start_date": datetime(2025, 5, 7),
@@ -12,7 +12,7 @@ default_args = {
 }
 
 with DAG(
-        dag_id="bikeshare_dag_v2",
+        dag_id="bikeshare_dag_v0",
         default_args=default_args,
         schedule="0 10 * * 1",
         catchup=False,
@@ -34,7 +34,13 @@ with DAG(
         task_id='stream_data_and_log_alert',
         python_callable=stream_data_and_log_alert,
     )
+    save_data_to_db_task = PythonOperator(
+        task_id='save_data_to_db',
+        python_callable=save_data_to_db,
+    )
 
     clean_task.set_downstream(generate_task)
     clean_task.set_downstream(partition_task)
     clean_task.set_downstream(streaming_task)
+    clean_task.set_downstream(save_data_to_db_task)
+    # create_table_task.set_downstream(insert_value_task)

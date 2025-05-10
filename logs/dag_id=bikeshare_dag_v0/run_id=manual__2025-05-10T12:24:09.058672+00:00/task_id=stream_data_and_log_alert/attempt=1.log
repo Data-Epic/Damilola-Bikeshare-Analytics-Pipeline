@@ -1,0 +1,13 @@
+{"timestamp":"2025-05-10T12:24:17.530913","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-10T12:24:17.533026","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T12:24:29.907751","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 107.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:30.414214","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 108.13 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:36.428323","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 69.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:57.458202","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 59.18 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:22.025641","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 62.68 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:51.125213","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.15 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:58.145840","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 57.67 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:59.150032","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 177.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:21.733614","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 72.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:26.768401Z","level":"error","event":"Server indicated the task shouldn't be running anymore. Terminating process","detail":{"detail":{"reason":"not_running","message":"TI is no longer in the running state and task should terminate","current_state":"failed"}},"logger":"task"}
+{"timestamp":"2025-05-10T12:26:31.773700Z","level":"error","event":"Task killed!","logger":"task"}

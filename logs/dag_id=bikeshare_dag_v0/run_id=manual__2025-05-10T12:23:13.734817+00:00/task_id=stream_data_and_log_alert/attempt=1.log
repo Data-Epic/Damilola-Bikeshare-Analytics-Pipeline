@@ -1,0 +1,118 @@
+{"timestamp":"2025-05-10T12:24:13.471080","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-10T12:24:13.471664","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T12:24:27.609071","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 107.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:28.111830","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 108.13 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:34.132042","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 69.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:24:55.179929","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 59.18 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:19.796916","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 62.68 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:48.902074","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.15 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:55.966242","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 57.67 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:25:56.970011","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 177.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:19.547252","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 72.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:25.072888","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 3591.93 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:26.576414","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 64.25 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:32.594395","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 1598.88 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:35.601588","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 57.48 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:40.624153","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 299.53 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:26:49.172776","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 64.67 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:27:01.718422","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:27:39.834979","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 102.28 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:27:58.378469","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 60.83 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:03.389383","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:07.899846","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:08.402982","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:40.484539","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.17 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:41.489363","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 62.23 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:44.497353","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 74.77 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:28:55.529328","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 98.58 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:04.077612","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:05.583078","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 62.32 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:06.584312","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 69.82 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:20.134859","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 95.75 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:38.188416","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 51.98 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:52.241453","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:52.742853","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:29:56.755341","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 62.48 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:00.267401","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 61.30 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:12.309297","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:12.811538","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:31.877131","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 56.78 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:40.398907","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 91.87 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:42.409066","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 76.25 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:30:42.909833","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 95.02 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:31:02.471650","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.67 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:31:12.998022","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:31:27.563488","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 154.77 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:31:41.110218","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 53.23 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:33:16.449021","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 83.30 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:33:16.951411","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 215.13 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:29.920427","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.85 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:30.422745","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 181.20 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:35.934023","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 47.25 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:37.437232","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 1099.08 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:37.437425","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:44.455425","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 113.73 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:35:54.985370","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 51.25 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:36:28.095507","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.62 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:36:28.597528","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 48.92 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:36:53.181442","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 105.00 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:11.740094","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.40 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:12.747887","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 53.92 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:18.762618","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 132.63 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:19.265980","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 132.90 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:48.864526","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 111.28 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:37:52.376188","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 132.62 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:27.985073","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 89.17 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:29.992503","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 52.75 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:42.528718","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 52.02 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:47.039044","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 47.22 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:52.552321","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 83.25 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:54.055529","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 85.73 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:55.063302","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 73.27 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:55.565958","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 214.18 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:56.569260","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 2547.37 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:57.571528","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 212.65 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:38:58.573536","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 2745.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:40:14.345593","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:40:19.360149","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.33 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:40:21.366932","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 46.55 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:40:48.449067","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.68 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:40:59.006150","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 85.48 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:41:01.022175","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 59.57 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:41:40.369492","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:41:46.404508","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:41:46.907914","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 48.85 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:41:56.488737","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 51.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:42:27.283745","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 51.05 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:42:34.361979","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 55.58 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:42:45.450926","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 122.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:42:51.479264","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 77.78 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:06.092629","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 840.27 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:20.723690","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 86.50 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:23.235961","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.68 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:32.312358","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 49.02 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:38.359677","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 59.58 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:43.415127","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 56.70 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:48.453342","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.75 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:49.966201","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:50.471390","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 86.37 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:51.477623","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 85.48 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:43:58.028370","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:44:11.668121","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:44:28.848043","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.03 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:44:35.400555","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:44:47.511011","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 46.60 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:45:20.283171","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 88.17 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:45:20.785462","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 89.10 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:45:29.361814","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 360.27 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:45:49.049688","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 75.27 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:37.538208","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.93 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:38.046945","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 47.83 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:39.056899","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 204.85 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:40.070423","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 79.32 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:46.621933","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 84.15 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:52.177391","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 95.95 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:46:59.240095","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 46.73 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:47:02.795846","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 45.52 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:47:21.955206","level":"warning","event":"⚠️ ALERT: Long ride detected! Duration: 46.70 minutes","logger":"kapka_stream"}
+{"timestamp":"2025-05-10T12:47:23.966674","level":"warning","event":"⚠️ ALERT: Casual rider started a trip at midnight!","logger":"kapka_stream"}

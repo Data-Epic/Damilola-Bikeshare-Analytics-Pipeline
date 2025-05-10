@@ -13,7 +13,7 @@ You'll use containerized components for cleaning, storing, streaming, and orches
 # 🚧 Problem Statement
 i am working with a micromobility company to improve operations and monitor rider behavior.
 
-Data: [dags/data/202212-capitalbikeshare-tripdata.csv](data-source)
+Data: [data-source](dags/data/202212-capitalbikeshare-tripdata.csv)
 
 Real-Time Alerts Required:
 - Casual rider starts a trip at midnight
@@ -40,6 +40,7 @@ Real-Time Alerts Required:
 
 # 🔁 Pipeline Architecture
 
+[DAG](screenshots/bikeshare_dag_v0-graph.png)
 
 # 🧪 Setup & Run
 
@@ -50,3 +51,5 @@ cd your-repo-name
 // Start pipeline
 docker-compose up --build
 ```
+Airflow UI: http://localhost:8080
+Logs: Stream output are written to [file](logs/dag_id=bikeshare_dag_v0)

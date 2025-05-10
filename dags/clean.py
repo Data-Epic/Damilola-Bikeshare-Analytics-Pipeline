@@ -1,5 +1,4 @@
 import os
-import logging
 import pandas as pd
 import plotly.express as px
 
@@ -12,9 +11,6 @@ def clean_data():
         df['started_at'] = pd.to_datetime(df['started_at'])
         df['ended_at'] = pd.to_datetime(df['ended_at'])
         df['trip_duration_minutes'] = (df['ended_at'] - df['started_at']).dt.total_seconds() / 60
-
-        df['day_of_week'] = df['started_at'].dt.day_name()
-        df['is_weekend'] = df['day_of_week'].isin(['Saturday', 'Sunday'])
         missing_stations = df['start_station_name'].isna() | df['end_station_name'].isna()
 
         df['has_missing_station'] = missing_stations
